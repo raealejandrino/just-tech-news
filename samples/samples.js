@@ -19,3 +19,11 @@
     "user_id": 1,
     "post_id": 1
 }
+
+// COMMENT
+
+{
+    "comment_text": "Test comment",
+    "user_id": 1,
+    "post_id": 1
+}
