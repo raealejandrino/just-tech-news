@@ -68,6 +68,7 @@ app.use(session(sess));
 
 const helpers = require('./utils/helpers');
 
+// creates function
 const hbs = exphbs.create({ helpers });
 
 app.engine('handlebars', hbs.engine);
